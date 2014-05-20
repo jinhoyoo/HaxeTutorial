@@ -1,1 +1,5 @@
-#This is my README
+#Haxe Tutorial 
+
+ This examples are prepared for Reach3dx's lecture. 
+ 
+ 
